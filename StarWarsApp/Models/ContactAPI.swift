@@ -20,6 +20,22 @@ class ContactAPI {
      Contact(name: "Derek Fowler", jobTitle: "Web Strategist", country: "ar"),
      Contact(name: "Shreya Nithin", jobTitle: "Product Designer", country: "az"),
      Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
+     Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au"),
+     Contact(name: "Emily Adams", jobTitle: "Editor", country: "bo"),
      Contact(name: "Aabidah Amal", jobTitle: "Creative Director", country: "au")
     ]
    return contacts
